@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.webp";
+import project1 from "../assets/projects/Ecoomerce (1).jpeg";
 import project2 from "../assets/projects/project-2.webp";
-import project3 from "../assets/projects/project-3.webp";
-import project4 from "../assets/projects/project-4.webp";
+import project3 from "../assets/projects/AorB.jpeg";
+import project4 from "../assets/projects/Tecsib.jpeg";
 
 export const HERO_CONTENT = `I am a passionate MERN stack developer with motivated and result-deiven proffessional with a Diploma in Computer Engineering,complemented by a strong passion for programming and web development.proficient in mernstack,Html,Css,Javascript and React with a demonstarted ability to create innovative web solutions.`;
 
@@ -54,14 +54,14 @@ export const PROJECTS = [
   //   technologies: ["HTML", "CSS", "Angular", "Firebase"],
   // },
   {
-    title: "Portfolio Website",
+    title: "AorB Testing - AI Tool Project",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind"],
+      "Built modern, responsive frontend for AI-powered A/B testing tool with seamless API integration and smooth animations.Focused on user experience optimization and cross-platform compatibility..",
+    technologies: ["HTML", "CSS", "React", "Tailwind","Node.js", "MongoDB","Framer Motion"],
   },
   {
-    title: "Restaurants website",
+    title: "TECSIB Company Website",
     image: project4,
     description:
       "A fully functional  website with features like product listing,Items, front-end website  ",
